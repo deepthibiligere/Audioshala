@@ -1,0 +1,36 @@
+*{
+font-family: 'Josefin Sans', sans-serif;}
+nav{
+ 	padding: 10px,2%;
+ 	justify-content: space-between;
+ 	box-shadow: 0,0,10px rgba(0, 0, 0.8, 1.0);
+ 	background: #fff;
+ 	position: static;
+ 	top: 0;
+ 	z-index: 10;
+ 
+ }
+ a{
+    color:whitesmoke;
+    text-shadow: rgba(0, 0, 0, 1.0);
+    padding: 20px;
+    size: 70px;
+ }
+ img{
+    padding-right: 30px;
+ }
+#at{
+    padding-right: 30px;
+    float: left;
+}
+ }
+ .search-box flex-div{
+    display: flex;
+    align-items: center;
+ }
+ #the{
+    float: left;
+ }
+ #ht{
+    padding-right: 0px;
+ }

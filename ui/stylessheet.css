@@ -1,0 +1,41 @@
+*{
+font-family: 'Josefin Sans', sans-serif;}
+.home .video-container video{
+	position:absolute;
+	top:0;left:0;
+	z-index:-1;
+	height:100%;
+	width:100%;
+	object-fit:cover;
+}
+.container{
+ 	width:100%;
+ 	height:100vh;
+ 	background-image: linear-gradient(rgba(0, 0, 0, 0.7)),url("C:\Users\deept\Desktop\backgroundimage.jpg");
+ 	background-position: center;
+ 	background-size: cover;
+ }
+
+.home .controls{
+	padding:1rem;
+	border-radius:5rem;
+	background: rgba(0,0,0,0.7);
+	position: relative;
+	top:10rem;
+}
+ nav{	
+	padding: 400rem;
+}
+ h3{
+	font-size: 3.5rem;
+	color:black;
+	text-transform: uppercase;
+	text-shadow:0.3 rem 0.5 rem rgba(0, 1, 0, 0.1);
+
+}
+  
+ .carousel-inner img{
+ 	width:100;
+    height:90vh;
+ }
+ 
